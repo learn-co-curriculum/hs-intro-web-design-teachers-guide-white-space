@@ -27,4 +27,4 @@ Leaving blank spaces on your page actually increases the quality of design and c
 + Show examples that are bad uses of white space
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-white-space' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-white-space' title='SWBATs'>SWBATs</a> on Learn.co and start learning to code for free.</p>
